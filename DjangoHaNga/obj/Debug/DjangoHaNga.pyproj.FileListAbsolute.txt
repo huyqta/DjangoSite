@@ -1,0 +1,13 @@
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\bin\Microsoft.PythonTools.WebRole.dll
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\attach_server.py
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\visualstudio_py_debugger.py
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\visualstudio_py_repl.py
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\visualstudio_py_util.py
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\__init__.py
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\__main__.py
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\bin\AzureSetup.cfg
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\bin\wfastcgi.py
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\web.config
+D:\WORKING\WORKING\PYTHON\HaNga\DjangoHaNga\DjangoHaNga\obj\Debug\web.debug.config
