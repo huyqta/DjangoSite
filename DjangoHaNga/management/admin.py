@@ -1,4 +1,8 @@
 from django.contrib import admin
-from management.models import Category
+from management.models import Categorie, ModelTest
 
-admin.site.register(Category)
+class CategorieAdmin(admin.ModelAdmin):
+    list_display = ('code', 'name')
+
+admin.site.register(Categorie)
+admin.site.register(ModelTest)

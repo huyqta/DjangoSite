@@ -111,7 +111,7 @@ def exec_module(module, global_variables):
     Python 2.5.
     '''
     import runpy
-    runpy.run_module(module, global_variables, run_name=global_variables.get('__name__'), alter_sys=True)
+    runpy.run_module(module, global_variables, alter_sys = True)
 
 UNICODE_PREFIX = to_bytes('U')
 ASCII_PREFIX = to_bytes('A')
@@ -233,10 +233,7 @@ class SafeRepr(object):
     def _repr(self, obj, level):
         '''Returns an iterable of the parts in the final repr string.'''
 
-        try:
-            obj_repr = type(obj).__repr__
-        except:
-            obj_repr = None
+        obj_repr = type(obj).__repr__
 
         def has_obj_repr(t):
             r = t.__repr__
