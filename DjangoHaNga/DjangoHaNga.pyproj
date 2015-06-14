@@ -42,6 +42,9 @@
     <Compile Include="management\admin.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="management\enums.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="management\models.py" />
     <Compile Include="management\tests.py" />
     <Compile Include="management\views.py" />

@@ -20,12 +20,12 @@ MANAGERS = ADMINS
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': path.join(PROJECT_ROOT, 'db.sqlite3'),
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',
-        'PORT': '',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'HuyCMS',
+        'USER': 'root',
+        'PASSWORD': 'admin',
+        'HOST': 'localhost',
+        'PORT': '3306',
     }
 }
 
