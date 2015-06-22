@@ -4,4 +4,11 @@ class ListEnums():
         ("C", "Course"),
         ("G", "Game"))
 
+    
     ACTIVE_STATUS = ((0))
+
+
+    STATUS_ENUM = (("W", "OnWait"),
+        ("P", "Processing"),
+        ("R", "Reviewing"),
+        ("F", "Finished"))
