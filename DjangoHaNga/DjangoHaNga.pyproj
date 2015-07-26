@@ -64,6 +64,11 @@
     <Folder Include="management\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\static\app\content\ss.css" />
+    <Content Include="app\static\app\content\ss.css.map" />
+    <Content Include="app\static\app\content\ss.scss">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="app\templates\app\footer.html" />
     <Content Include="app\templates\app\header.html" />
     <Content Include="management\templates\index.html" />
